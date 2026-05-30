@@ -1,0 +1,9 @@
+Type,Weighted Properties Owned, Weighted Suites Owned,Eviction Filings,% Properties,% Suites(A), % Filings(B), Ratio B/A
+Financial,447,61951,51382,0.16,0.2,0.29,1.45
+Chain,736,94728,59664,0.26,0.31,0.33,1.06
+Chain Man.,134,17067,11243,0.05,0.06,0.06, 1
+Multi Owner,372,27958,15625,0.13,0.09,0.09,1
+Single Owner,649,36818,15160,0.23,0.12,0.08,0.67
+Non-Profit,138,12189,5932,0.05,0.04,0.03,0.75
+Public,343,53521,19636,0.12, 0.18, 0.11, 0.61
+Total,2819,304190,178718,1,1,1,1
